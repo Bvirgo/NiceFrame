@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceFrame.CSharp.Plugins", "NiceFrame.CSharp.Plugins.csproj", "{2BED0A78-A9DE-D716-96EE-7789B580942D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NiceFrame.CSharp", "NiceFrame.CSharp.csproj", "{65EE68BF-A5B5-E8BC-117D-6D82D6F7DBCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BED0A78-A9DE-D716-96EE-7789B580942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BED0A78-A9DE-D716-96EE-7789B580942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BED0A78-A9DE-D716-96EE-7789B580942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BED0A78-A9DE-D716-96EE-7789B580942D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EE68BF-A5B5-E8BC-117D-6D82D6F7DBCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EE68BF-A5B5-E8BC-117D-6D82D6F7DBCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EE68BF-A5B5-E8BC-117D-6D82D6F7DBCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EE68BF-A5B5-E8BC-117D-6D82D6F7DBCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
